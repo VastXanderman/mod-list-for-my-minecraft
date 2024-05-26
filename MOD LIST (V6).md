@@ -20,5 +20,5 @@
 
 (RESOURCE LIST VERSION 1)
 * [Vanilla Evolved by Vixel](https://cdn.modrinth.com/data/5Wz8MWHt/versions/LPGB84Jc/VanillaEvolved_1.7.0.zip) (UoNp)
-* [Gui Revision by Vixel](https://cdn.modrinth.com/data/orgtdk9U/versions/ckwMhwWU/GUIRevision_2.1.0.zip) (May be broken) (UoN)
-* [Refined Enchants by Vixel](https://cdn.modrinth.com/data/lZA0RkYb/versions/vNyySTL2/RefinedEnchants_0.1.0.zip) (May not work currently) (UoN)
+* [Unique Dark by AmongstReality](https://cdn.modrinth.com/data/BaY1UdGV/versions/yJdwgwhE/Unique%20Dark%201.20.6%20%28free%29.zip) (UoN)
+* [Fresh Animations](https://cdn.modrinth.com/data/50dA9Sha/versions/DimjJDVT/FreshAnimations_v1.9.zip) (UoN)
