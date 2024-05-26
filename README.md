@@ -29,3 +29,7 @@ HERE IS A TUTORIAL
 * Open the folder of the installation you want to add the resource/shader pack into
 * Drag the zip file of the resource/shader pack into the resourcepacks/shaderpacks folder
 * If there is no shaderpacks folder, create a shaderpacks folder. There will always be a resourcepacks folder though.
+
+\n
+# Resource Pack Layout
+![image](https://github.com/VastXanderman/mod-list-for-my-minecraft/assets/168394656/6bb3903a-667d-4b1f-858e-29f21ef39b6f)
