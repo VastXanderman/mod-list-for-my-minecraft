@@ -1,5 +1,5 @@
-# mod-list-for-my-minecraft
-## IF THE MOD HAS (UoN) NEXT TO IT, IT IS EITHER NEW OR UPDATED
+# mod/resource-list-for-my-minecraft
+## IF THE MOD/RESOURCE HAS (UoN) NEXT TO IT, IT IS EITHER NEW OR UPDATED
 
 (MOD LIST VERSION 4.5)
 * [Fabric API](https://cdn.modrinth.com/data/P7dR8mSH/versions/sswM8UzU/fabric-api-0.99.0%2B1.20.6.jar) for most mods to work
@@ -14,6 +14,5 @@
 * [WorldEdit](https://cdn.modrinth.com/data/1u6JkXh5/versions/4tGY0ePl/worldedit-mod-7.3.2.jar)
 * [Iris](https://cdn.modrinth.com/data/YL57xq9U/versions/BvVRER1H/iris-1.7.0%2Bmc1.20.6.jar)
 
-[NEW FOR VERSION 4]
+(RESOURCE LIST VERSION 1)
 * [Vanilla Evolved texture pack](https://cdn.modrinth.com/data/5Wz8MWHt/versions/LPGB84Jc/VanillaEvolved_1.7.0.zip)
-* [Herobrine](https://cdn.modrinth.com/data/p1WH6sHr/versions/ICTO4ABV/From-The-Fog-1.20.5-1.20.6-v1.9.3-Forge-Fabric.jar)
