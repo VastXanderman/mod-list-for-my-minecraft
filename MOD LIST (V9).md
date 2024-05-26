@@ -1,4 +1,4 @@
-# MOD LIST VERSION 8
+# MOD LIST VERSION 9
 * [Fabric API](https://cdn.modrinth.com/data/P7dR8mSH/versions/sswM8UzU/fabric-api-0.99.0%2B1.20.6.jar) for most mods to work
 * [Fabric Language Kotlin](https://cdn.modrinth.com/data/Ha28R6CL/versions/afsFajDC/fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0.jar) for OptiGUI to work
 * [Simple Voice Chat](https://cdn.modrinth.com/data/9eGKb6K1/versions/SW95br7b/voicechat-fabric-1.20.6-2.5.15.jar)
@@ -18,9 +18,13 @@
 * [Entity Texture Features](https://cdn.modrinth.com/data/BVzZfTc1/versions/LLAlgYfT/entity_texture_features_fabric_1.20.5-6.0.1.jar)
 * [Fog Update](https://cdn.modrinth.com/data/p1WH6sHr/versions/ICTO4ABV/From-The-Fog-1.20.5-1.20.6-v1.9.3-Forge-Fabric.jar)
 * [Controller Support](https://cdn.modrinth.com/data/DOUdJVEm/versions/cif1Amua/Controlify-2.0.0-beta.9%2B1.20.6.jar) which requires [YetAnotherConfigLib](https://cdn.modrinth.com/data/1eAoo2KR/versions/rsM9VY0D/YetAnotherConfigLib-3.4.2%2B1.20.5-fabric.jar) in order to work.
+* [Remorphed (via curseforge sadly)](https://www.curseforge.com/api/v1/mods/950721/files/5347926/download)
 
 # RESOURCE LIST VERSION 1
 ### CHECK THE MAIN PAGE TO SEE WHAT ORDER THESE SHOULD BE IN
 * [Vanilla Evolved by Vixel](https://cdn.modrinth.com/data/5Wz8MWHt/versions/LPGB84Jc/VanillaEvolved_1.7.0.zip)
 * [Unique Dark by AmongstReality](https://cdn.modrinth.com/data/BaY1UdGV/versions/yJdwgwhE/Unique%20Dark%201.20.6%20%28free%29.zip)
 * [Fresh Animations](https://cdn.modrinth.com/data/50dA9Sha/versions/DimjJDVT/FreshAnimations_v1.9.zip)
+
+# SHADER LIST VERSION 1
+* [BSL Shaders](https://cdn.modrinth.com/data/Q1vvjJYV/versions/k7zNmcFF/BSL_v8.2.09p2.zip)
