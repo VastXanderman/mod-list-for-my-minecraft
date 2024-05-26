@@ -18,7 +18,7 @@
 * [Entity Texture Features](https://cdn.modrinth.com/data/BVzZfTc1/versions/LLAlgYfT/entity_texture_features_fabric_1.20.5-6.0.1.jar)
 * [Fog Update](https://cdn.modrinth.com/data/p1WH6sHr/versions/ICTO4ABV/From-The-Fog-1.20.5-1.20.6-v1.9.3-Forge-Fabric.jar)
 * [Controller Support](https://cdn.modrinth.com/data/DOUdJVEm/versions/cif1Amua/Controlify-2.0.0-beta.9%2B1.20.6.jar) which requires [YetAnotherConfigLib](https://cdn.modrinth.com/data/1eAoo2KR/versions/rsM9VY0D/YetAnotherConfigLib-3.4.2%2B1.20.5-fabric.jar) in order to work.
-* [Remorphed](https://cdn.modrinth.com/data/8aeV5uJW/versions/sVh21cT6/remorphed-3.6.2-fabric.jar) which requires [WoodWalkers](https://cdn.modrinth.com/data/Sr1HeD8z/versions/3K2Sht2G/walkers-4.4.3-forge.jar) and [crafted-core](https://cdn.modrinth.com/data/Dg7PHdkJ/versions/UGwS4VS4/craftedcore-4.2.3-fabric.jar) in order to work.
+* [WoodWalkers](https://cdn.modrinth.com/data/Sr1HeD8z/versions/fBGjnzRO/walkers-4.4.3-fabric.jar) requires [crafted-core](https://cdn.modrinth.com/data/Dg7PHdkJ/versions/UGwS4VS4/craftedcore-4.2.3-fabric.jar) in order to work.
 
 # RESOURCE LIST VERSION 1
 ### CHECK THE MAIN PAGE TO SEE WHAT ORDER THESE SHOULD BE IN
