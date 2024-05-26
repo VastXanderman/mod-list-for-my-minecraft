@@ -30,6 +30,9 @@ HERE IS A TUTORIAL
 * Drag the zip file of the resource/shader pack into the resourcepacks/shaderpacks folder
 * If there is no shaderpacks folder, create a shaderpacks folder. There will always be a resourcepacks folder though.
 
+# KEYBIND FIX
+### TO FIX THE KEYBINDS, SCROLL DOWN AND CHANGE WOODWALKERS TO
+![image](https://github.com/VastXanderman/mod-list-for-my-minecraft/assets/168394656/ec9b348a-ed9b-4dd2-949b-ab63f3e80937)
 
 # Resource Pack Layout
 ### DO NOT USE FRESH ANIMATIONS AS IT CONFLICTS WITH ANOTHER MOD
