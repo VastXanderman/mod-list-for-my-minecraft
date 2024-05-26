@@ -3,6 +3,7 @@
 
 (MOD LIST VERSION 4.5)
 * [Fabric API](https://cdn.modrinth.com/data/P7dR8mSH/versions/sswM8UzU/fabric-api-0.99.0%2B1.20.6.jar) for most mods to work
+* [Fabric Language Kotlin](https://cdn.modrinth.com/data/Ha28R6CL/versions/afsFajDC/fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0.jar) for OptiGUI to work
 * [Simple Voice Chat](https://cdn.modrinth.com/data/9eGKb6K1/versions/SW95br7b/voicechat-fabric-1.20.6-2.5.15.jar)
 * [Voice Chat Interactions](https://cdn.modrinth.com/data/qsSP2ZZ0/versions/VoqoSFjv/vcinteraction-fabric-1.20.6-1.0.6.jar) so that the proximity chat also activates sculk sensors.
 * [Sodium](https://cdn.modrinth.com/data/AANobbMI/versions/IZskON6d/sodium-fabric-0.5.8%2Bmc1.20.6.jar), [Lithium](https://cdn.modrinth.com/data/gvQqBUqZ/versions/bAbb09VF/lithium-fabric-mc1.20.6-0.12.3.jar), and [Indium](https://cdn.modrinth.com/data/Orvt0mRa/versions/Aouse6P7/indium-1.0.30%2Bmc1.20.4.jar) for performance
