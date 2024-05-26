@@ -1,7 +1,4 @@
-# mod/resource-list-for-my-minecraft
-## IF THE MOD/RESOURCE HAS (UoN) NEXT TO IT, IT IS EITHER NEW OR UPDATED. IF (UoNp), IT WAS UPDATED FROM THE PREVIOUS VERSION.
-
-(MOD LIST VERSION 7.5)
+# MOD LIST VERSION 7.5
 * [Fabric API](https://cdn.modrinth.com/data/P7dR8mSH/versions/sswM8UzU/fabric-api-0.99.0%2B1.20.6.jar) for most mods to work
 * [Fabric Language Kotlin](https://cdn.modrinth.com/data/Ha28R6CL/versions/afsFajDC/fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0.jar) for OptiGUI to work (UoN)
 * [Simple Voice Chat](https://cdn.modrinth.com/data/9eGKb6K1/versions/SW95br7b/voicechat-fabric-1.20.6-2.5.15.jar)
@@ -22,7 +19,8 @@
 * [Herobrine..](https://cdn.modrinth.com/data/p1WH6sHr/versions/ICTO4ABV/From-The-Fog-1.20.5-1.20.6-v1.9.3-Forge-Fabric.jar) (UoN)
 * [Controller Support](https://cdn.modrinth.com/data/DOUdJVEm/versions/cif1Amua/Controlify-2.0.0-beta.9%2B1.20.6.jar) which requires [YetAnotherConfigLib](https://cdn.modrinth.com/data/1eAoo2KR/versions/rsM9VY0D/YetAnotherConfigLib-3.4.2%2B1.20.5-fabric.jar) in order to work.
 
-(RESOURCE LIST VERSION 1) (CHECK THE MAIN PAGE TO SEE WHAT ORDER THESE SHOULD BE IN)
+# RESOURCE LIST VERSION 1
+### CHECK THE MAIN PAGE TO SEE WHAT ORDER THESE SHOULD BE IN
 * [Vanilla Evolved by Vixel](https://cdn.modrinth.com/data/5Wz8MWHt/versions/LPGB84Jc/VanillaEvolved_1.7.0.zip) (UoNp)
 * [Unique Dark by AmongstReality](https://cdn.modrinth.com/data/BaY1UdGV/versions/yJdwgwhE/Unique%20Dark%201.20.6%20%28free%29.zip) (UoNp)
 * [Fresh Animations](https://cdn.modrinth.com/data/50dA9Sha/versions/DimjJDVT/FreshAnimations_v1.9.zip) (UoNp)
