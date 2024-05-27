@@ -26,5 +26,6 @@
 * [Unique Dark by AmongstReality](https://cdn.modrinth.com/data/BaY1UdGV/versions/yJdwgwhE/Unique%20Dark%201.20.6%20%28free%29.zip)
 * [Fresh Animations](https://cdn.modrinth.com/data/50dA9Sha/versions/DimjJDVT/FreshAnimations_v1.9.zip)
 
-# SHADER LIST VERSION 1
+# SHADER LIST VERSION 2
 * [BSL Shaders](https://cdn.modrinth.com/data/Q1vvjJYV/versions/k7zNmcFF/BSL_v8.2.09p2.zip)
+* [Insanity Shaders](https://cdn.modrinth.com/data/EQWX2WiO/versions/zitLWTPJ/Insanity-Shader-Universal-v1.600.zip)
