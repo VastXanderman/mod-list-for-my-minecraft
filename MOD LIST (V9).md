@@ -46,5 +46,11 @@ MOTION_BLUR_STRENGTH=2.0
 sunPathRotation=0.0
 
 * you now have my config
-  
 
+# EXAMPLES OF MY CONFIG IN ACTION
+![wall of glowstone](https://github.com/VastXanderman/mod-list-for-my-minecraft/assets/168394656/37dc4e21-7d4a-4482-989c-bcf0eb4b65aa)
+![holding lava bucket in 2x2x2 room](https://github.com/VastXanderman/mod-list-for-my-minecraft/assets/168394656/b5238edc-b76b-42ad-a70a-7acb436203c7)
+![tree at day](https://github.com/VastXanderman/mod-list-for-my-minecraft/assets/168394656/aaeb6225-499a-4735-8b76-00c70ab71e92)
+![tree at noon](https://github.com/VastXanderman/mod-list-for-my-minecraft/assets/168394656/c0773f7f-d850-4e59-b59f-2fb664257455)
+![tree at night](https://github.com/VastXanderman/mod-list-for-my-minecraft/assets/168394656/0acbf9b4-ea05-4086-9c7e-6c17df38aea3)
+![tree at midnight](https://github.com/VastXanderman/mod-list-for-my-minecraft/assets/168394656/e790a264-4bdd-425d-b8e5-5ddea3ba806f)
