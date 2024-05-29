@@ -31,11 +31,14 @@
 * [Insanity Shaders](https://cdn.modrinth.com/data/EQWX2WiO/versions/zitLWTPJ/Insanity-Shader-Universal-v1.600.zip)
 
 # MY PERSONAL FAVORITE SHADERS
-[MakeUp - Ultra Fast](https://cdn.modrinth.com/data/izsIPI7a/versions/byJtUwZZ/MakeUp-UltraFast-8.9e.zip) with [my custom config]([#Wed May 29 18:16:08 EDT 2024
+[MakeUp - Ultra Fast](https://cdn.modrinth.com/data/izsIPI7a/versions/byJtUwZZ/MakeUp-UltraFast-8.9e.zip) with this config:
+* Name a new text file in the shader packs folder: "MakeUp-UltraFast-8.9e.zip"
+* Paste the following content into the text file and save
 COLORED_SHADOW=true
 DOF=true
 MOTION_BLUR=true
 MOTION_BLUR_STRENGTH=2.0
 sunPathRotation=0.0
-Uploading MakeUp-UltraFast-8.9e.zip.txt…]()
+* you now have my config
+  
 
