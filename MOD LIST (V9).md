@@ -1,4 +1,4 @@
-# MOD LIST VERSION 9
+[MakeUp-UltraFast-8.9e.zip.txt](https://github.com/VastXanderman/mod-list-for-my-minecraft/files/15491419/MakeUp-UltraFast-8.9e.zip.txt)# MOD LIST VERSION 9
 * [Fabric API](https://cdn.modrinth.com/data/P7dR8mSH/versions/sswM8UzU/fabric-api-0.99.0%2B1.20.6.jar) for most mods to work
 * [Fabric Language Kotlin](https://cdn.modrinth.com/data/Ha28R6CL/versions/afsFajDC/fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0.jar) for OptiGUI to work
 * [Simple Voice Chat](https://cdn.modrinth.com/data/9eGKb6K1/versions/SW95br7b/voicechat-fabric-1.20.6-2.5.15.jar)
@@ -29,3 +29,13 @@
 # SHADER LIST VERSION 2
 * [BSL Shaders](https://cdn.modrinth.com/data/Q1vvjJYV/versions/k7zNmcFF/BSL_v8.2.09p2.zip)
 * [Insanity Shaders](https://cdn.modrinth.com/data/EQWX2WiO/versions/zitLWTPJ/Insanity-Shader-Universal-v1.600.zip)
+
+# MY PERSONAL FAVORITE SHADERS
+[MakeUp - Ultra Fast](https://cdn.modrinth.com/data/izsIPI7a/versions/byJtUwZZ/MakeUp-UltraFast-8.9e.zip) with [my custom config]([#Wed May 29 18:16:08 EDT 2024
+COLORED_SHADOW=true
+DOF=true
+MOTION_BLUR=true
+MOTION_BLUR_STRENGTH=2.0
+sunPathRotation=0.0
+Uploading MakeUp-UltraFast-8.9e.zip.txt…])
+
