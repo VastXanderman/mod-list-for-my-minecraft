@@ -36,10 +36,15 @@
 * Paste the following content into the text file and save
 
 COLORED_SHADOW=true
+
 DOF=true
+
 MOTION_BLUR=true
+
 MOTION_BLUR_STRENGTH=2.0
+
 sunPathRotation=0.0
+
 * you now have my config
   
 
