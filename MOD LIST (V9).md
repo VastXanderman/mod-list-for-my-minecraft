@@ -34,6 +34,7 @@
 [MakeUp - Ultra Fast](https://cdn.modrinth.com/data/izsIPI7a/versions/byJtUwZZ/MakeUp-UltraFast-8.9e.zip) with this config:
 * Name a new text file in the shader packs folder: "MakeUp-UltraFast-8.9e.zip"
 * Paste the following content into the text file and save
+
 COLORED_SHADOW=true
 DOF=true
 MOTION_BLUR=true
