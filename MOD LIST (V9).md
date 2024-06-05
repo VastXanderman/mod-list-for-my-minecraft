@@ -1,4 +1,4 @@
-[MakeUp-UltraFast-8.9e.zip.txt](https://github.com/VastXanderman/mod-list-for-my-minecraft/files/15491419/MakeUp-UltraFast-8.9e.zip.txt)# MOD LIST VERSION 9
+# MOD LIST VERSION 9
 * [Fabric API](https://cdn.modrinth.com/data/P7dR8mSH/versions/sswM8UzU/fabric-api-0.99.0%2B1.20.6.jar) for most mods to work
 * [Fabric Language Kotlin](https://cdn.modrinth.com/data/Ha28R6CL/versions/afsFajDC/fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0.jar) for OptiGUI to work
 * [Simple Voice Chat](https://cdn.modrinth.com/data/9eGKb6K1/versions/SW95br7b/voicechat-fabric-1.20.6-2.5.15.jar)
