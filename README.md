@@ -24,6 +24,11 @@ HERE IS A TUTORIAL
 * Open the minecraft folder via the button in game (if your on the essential profile)
 * Put the installed ".jar" files into your "mods" folder. If there isn't a "mods" folder, make sure your on the right installation.
 * Restart the game, you should see the number of mods next to the minecraft version.
+## EZ MODE
+* Use one of the above tutorials to open minecraft folder
+* Open the ez mode zip file
+* Drag the folders from that file into the base minecraft folder
+* replace files if needed to
 
 # ADDING RESOURCE/SHADER PACKS
 * Open the folder of the installation you want to add the resource/shader pack into
